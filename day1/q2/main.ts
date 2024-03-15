@@ -1,4 +1,2 @@
-let fullName = 'rohaan';
-console.log(fullName.toLowerCase());
-console.log(fullName.toUpperCase());
-console.log(fullName.charAt(0).toUpperCase() + fullName.slice(1));
+let name1: string = 'Rohaan';
+console.log('Hello ' + name1 + ' would you like to learn some TypeScript today?');
