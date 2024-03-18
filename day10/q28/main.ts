@@ -1,4 +1,4 @@
-let age: number = 20;
+let age: number = 25;
 
 if (age < 2){
     console.log('toddler');
